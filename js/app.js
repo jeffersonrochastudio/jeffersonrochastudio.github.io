@@ -135,3 +135,33 @@ document.addEventListener('keydown', event => {
 });
 
 initPortfolio();
+
+
+// ===== FASE 3: animações, navegação ativa e melhoria de conversão =====
+const observer = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      entry.target.classList.add('is-visible');
+      observer.unobserve(entry.target);
+    }
+  });
+}, { threshold: 0.12 });
+
+document.querySelectorAll('.reveal-on-scroll, .service-card, .case-card, .process-grid div, .testimonial-card').forEach((el, index) => {
+  el.style.transitionDelay = `${Math.min(index % 4, 3) * 70}ms`;
+  observer.observe(el);
+});
+
+const navLinks = [...document.querySelectorAll('.main-nav a')];
+const sections = navLinks
+  .map(link => document.querySelector(link.getAttribute('href')))
+  .filter(Boolean);
+
+const navObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      navLinks.forEach(link => link.classList.toggle('active', link.getAttribute('href') === `#${entry.target.id}`));
+    }
+  });
+}, { rootMargin: '-35% 0px -55% 0px', threshold: 0.01 });
+sections.forEach(section => navObserver.observe(section));
