@@ -1,0 +1,19 @@
+COMO PUBLICAR A FASE 1 NO GITHUB DESKTOP
+
+1. Abra a pasta clonada do repositório pelo botão "Show in Explorer".
+2. Apague a estrutura antiga, se desejar manter limpo: assets1, assets2, assets3, css, js e index.html antigos.
+3. Copie para a pasta do repositório todo o conteúdo desta pasta:
+   - index.html
+   - css
+   - js
+   - assets
+   - portfolio
+   - docs
+   - data
+   - README.md
+4. Abra o GitHub Desktop.
+5. Confira se apareceram os arquivos em "Changes".
+6. Em Summary, escreva: Fase 1 - Estrutura V6
+7. Clique em "Commit to main".
+8. Clique em "Push origin".
+9. Aguarde 1 ou 2 minutos e acesse https://jeffersonrochastudio.github.io
