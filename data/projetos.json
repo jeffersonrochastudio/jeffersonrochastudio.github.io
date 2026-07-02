@@ -1,0 +1,220 @@
+[
+  {
+    "id": "consulte-educacional",
+    "title": "Consulte Educacional",
+    "category": "Design Gráfico",
+    "client": "Consulte Educacional",
+    "year": "2026",
+    "cover": "portfolio/cases/consulte-educacional/arte-1.jpg",
+    "images": [
+      "portfolio/cases/consulte-educacional/arte-1.jpg",
+      "portfolio/cases/consulte-educacional/arte-2.jpg",
+      "portfolio/cases/consulte-educacional/arte-3.jpg",
+      "portfolio/cases/consulte-educacional/arte-4.jpg",
+      "portfolio/cases/consulte-educacional/arte-5.jpg",
+      "portfolio/cases/consulte-educacional/arte-6.jpg",
+      "portfolio/cases/consulte-educacional/arte-7.jpg",
+      "portfolio/cases/consulte-educacional/arte-8.jpg"
+    ],
+    "summary": "Linha de peças para divulgação de cursos, campanhas e redes sociais.",
+    "objective": "Comunicar ofertas educacionais com clareza, reforçando credibilidade e chamada para ação.",
+    "solution": "Criação de artes com hierarquia visual forte, contraste, CTA visível e adaptação para diferentes formatos.",
+    "results": "Peças consistentes, prontas para redes sociais e campanhas de captação.",
+    "tools": [
+      "Canva",
+      "Photoshop",
+      "Design para redes sociais"
+    ]
+  },
+  {
+    "id": "religare-e-eventos",
+    "title": "Religare, eventos e peças especiais",
+    "category": "Design Gráfico",
+    "client": "Projetos diversos",
+    "year": "2026",
+    "cover": "portfolio/cases/religare-e-eventos/arte-1.jpg",
+    "images": [
+      "portfolio/cases/religare-e-eventos/arte-1.jpg",
+      "portfolio/cases/religare-e-eventos/arte-2.jpg",
+      "portfolio/cases/religare-e-eventos/arte-3.jpg",
+      "portfolio/cases/religare-e-eventos/arte-4.jpg"
+    ],
+    "summary": "Peças visuais para eventos, conteúdos especiais e comunicação institucional.",
+    "objective": "Criar materiais com identidade visual adequada ao público e ao contexto de cada projeto.",
+    "solution": "Combinação de tipografia, composição, cores e elementos gráficos alinhados à mensagem.",
+    "results": "Comunicação visual mais clara, bonita e pronta para publicação.",
+    "tools": [
+      "Canva",
+      "Photoshop",
+      "Direção visual"
+    ]
+  },
+  {
+    "id": "materiais-educacionais",
+    "title": "Materiais Educacionais Premium",
+    "category": "Materiais Educacionais",
+    "client": "Heavelyn / Educação",
+    "year": "2026",
+    "cover": "portfolio/cases/materiais-educacionais/caderno1-1.jpg",
+    "images": [
+      "portfolio/cases/materiais-educacionais/caderno1-1.jpg",
+      "portfolio/cases/materiais-educacionais/caderno1-2.jpg",
+      "portfolio/cases/materiais-educacionais/caderno1-3.jpg",
+      "portfolio/cases/materiais-educacionais/caderno2-1.jpg",
+      "portfolio/cases/materiais-educacionais/caderno2-2.jpg",
+      "portfolio/cases/materiais-educacionais/caderno2-3.jpg",
+      "portfolio/cases/materiais-educacionais/slides-1.jpg",
+      "portfolio/cases/materiais-educacionais/slides-2.jpg",
+      "portfolio/cases/materiais-educacionais/slides-3.jpg"
+    ],
+    "summary": "Cadernos, atividades e slides com acabamento visual e organização pedagógica.",
+    "objective": "Transformar conteúdos escolares em materiais claros, bonitos e fáceis de aplicar.",
+    "solution": "Diagramação, hierarquia visual, boxes de atenção, exercícios organizados e identidade institucional.",
+    "results": "Materiais com visual premium, melhor leitura e uso mais profissional em sala de aula.",
+    "tools": [
+      "PowerPoint",
+      "PDF",
+      "Design editorial",
+      "Matemática"
+    ]
+  },
+  {
+    "id": "apresentacoes",
+    "title": "Apresentações PowerPoint e Canva",
+    "category": "Apresentações",
+    "client": "Educação e negócios",
+    "year": "2026",
+    "cover": "portfolio/cases/apresentacoes/bingo-1.jpg",
+    "images": [
+      "portfolio/cases/apresentacoes/bingo-1.jpg",
+      "portfolio/cases/apresentacoes/bingo-2.jpg",
+      "portfolio/cases/apresentacoes/bingo-3.jpg",
+      "portfolio/cases/apresentacoes/calculo-1.jpg",
+      "portfolio/cases/apresentacoes/calculo-2.jpg",
+      "portfolio/cases/apresentacoes/calculo-3.jpg",
+      "portfolio/cases/apresentacoes/seta-1.jpg",
+      "portfolio/cases/apresentacoes/seta-2.jpg",
+      "portfolio/cases/apresentacoes/seta-3.jpg",
+      "portfolio/cases/apresentacoes/ybera-1.jpg",
+      "portfolio/cases/apresentacoes/ybera-2.jpg",
+      "portfolio/cases/apresentacoes/ybera-3.jpg"
+    ],
+    "summary": "Slides profissionais para aulas, propostas, seminários e materiais institucionais.",
+    "objective": "Criar apresentações visualmente consistentes e fáceis de acompanhar.",
+    "solution": "Estruturação de narrativa, design dos slides, ícones, imagens e ritmo visual.",
+    "results": "Apresentações mais claras, bonitas e com maior impacto para o público.",
+    "tools": [
+      "PowerPoint",
+      "Canva",
+      "PDF",
+      "Storytelling visual"
+    ]
+  },
+  {
+    "id": "excel-avancado",
+    "title": "Dashboards e Planilhas Avançadas",
+    "category": "Excel",
+    "client": "Projetos corporativos",
+    "year": "2026",
+    "cover": "portfolio/cases/excel-avancado/dashboard-financeiro.jpg",
+    "images": [
+      "portfolio/cases/excel-avancado/dashboard-financeiro.jpg",
+      "portfolio/cases/excel-avancado/excel-office.jpg",
+      "portfolio/cases/excel-avancado/kpis-controle.jpg"
+    ],
+    "summary": "Controles inteligentes, dashboards, indicadores e organização de dados.",
+    "objective": "Facilitar decisões e reduzir retrabalho por meio de planilhas bem estruturadas.",
+    "solution": "Criação de modelos com KPIs, relatórios, gráficos e visão gerencial.",
+    "results": "Mais clareza, organização e velocidade na análise das informações.",
+    "tools": [
+      "Excel",
+      "Dashboards",
+      "Automação",
+      "Análise de dados"
+    ]
+  },
+  {
+    "id": "propostas-comerciais",
+    "title": "Propostas comerciais e dossiês",
+    "category": "Ebooks e PDFs",
+    "client": "Projetos diversos",
+    "year": "2026",
+    "cover": "portfolio/cases/propostas-comerciais/dossie-1.jpg",
+    "images": [
+      "portfolio/cases/propostas-comerciais/dossie-1.jpg",
+      "portfolio/cases/propostas-comerciais/dossie-2.jpg",
+      "portfolio/cases/propostas-comerciais/dossie-3.jpg",
+      "portfolio/cases/propostas-comerciais/extrabom-1.jpg",
+      "portfolio/cases/propostas-comerciais/extrabom-2.jpg",
+      "portfolio/cases/propostas-comerciais/extrabom-3.jpg",
+      "portfolio/cases/propostas-comerciais/lecard-1.jpg",
+      "portfolio/cases/propostas-comerciais/lecard-2.jpg",
+      "portfolio/cases/propostas-comerciais/lecard-3.jpg",
+      "portfolio/cases/propostas-comerciais/ybera-performance-1.jpg",
+      "portfolio/cases/propostas-comerciais/ybera-performance-2.jpg",
+      "portfolio/cases/propostas-comerciais/ybera-performance-3.jpg"
+    ],
+    "summary": "Documentos comerciais, propostas e materiais ricos com acabamento profissional.",
+    "objective": "Transformar informações comerciais em documentos claros e visualmente confiáveis.",
+    "solution": "Diagramação, organização de seções, capa, páginas internas e hierarquia de leitura.",
+    "results": "Materiais mais profissionais para apresentação a clientes e parceiros.",
+    "tools": [
+      "PDF",
+      "Canva",
+      "Design editorial",
+      "Copy visual"
+    ]
+  },
+  {
+    "id": "youtube-midias",
+    "title": "YouTube, thumbnails e identidade visual",
+    "category": "Mídias Digitais",
+    "client": "Projetos de conteúdo",
+    "year": "2026",
+    "cover": "portfolio/cases/youtube-midias/12.jpg",
+    "images": [
+      "portfolio/cases/youtube-midias/12.jpg",
+      "portfolio/cases/youtube-midias/13.jpg",
+      "portfolio/cases/youtube-midias/14.jpg",
+      "portfolio/cases/youtube-midias/15.jpg",
+      "portfolio/cases/youtube-midias/17.jpg",
+      "portfolio/cases/youtube-midias/18.jpg",
+      "portfolio/cases/youtube-midias/20.jpg",
+      "portfolio/cases/youtube-midias/Banner-Atualizado.jpg",
+      "portfolio/cases/youtube-midias/Logo.jpg"
+    ],
+    "summary": "Banners, logos e thumbnails para presença digital em canais e redes.",
+    "objective": "Aumentar percepção de profissionalismo e clareza visual nos conteúdos.",
+    "solution": "Criação de peças com foco em contraste, leitura rápida e identidade consistente.",
+    "results": "Canais e publicações com aparência mais profissional e reconhecível.",
+    "tools": [
+      "Canva",
+      "Photoshop",
+      "YouTube Design",
+      "Identidade visual"
+    ]
+  },
+  {
+    "id": "sites",
+    "title": "Sites e Landing Pages",
+    "category": "Sites",
+    "client": "Jefferson Rocha Studio",
+    "year": "2026",
+    "cover": "portfolio/cases/sites/site-mock-1.jpg",
+    "images": [
+      "portfolio/cases/sites/site-mock-1.jpg",
+      "portfolio/cases/sites/site-mock-2.jpg",
+      "portfolio/cases/sites/site-mock-3.jpg"
+    ],
+    "summary": "Páginas responsivas para apresentar serviços e captar clientes.",
+    "objective": "Criar presença online profissional, rápida e focada em conversão.",
+    "solution": "Estrutura de página com proposta de valor, serviços, cases, sobre e contato.",
+    "results": "Site publicado no GitHub Pages com visual moderno e manutenção simples.",
+    "tools": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "GitHub Pages"
+    ]
+  }
+]

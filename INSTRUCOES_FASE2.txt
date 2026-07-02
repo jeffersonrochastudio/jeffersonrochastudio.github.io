@@ -1,0 +1,23 @@
+FASE 2 - SISTEMA DE CASES DINÂMICOS
+
+O que foi adicionado:
+- data/projetos.json com os dados dos cases.
+- portfolio/cases/ com imagens organizadas por projeto.
+- Cards de portfólio gerados automaticamente.
+- Filtros por categoria.
+- Modal de case completo com objetivo, solução, resultado, ferramentas e galeria navegável.
+- Navegação por setas no modal e também pelo teclado.
+
+Como publicar:
+1. Copie todos os arquivos desta pasta para a pasta local do repositório.
+2. Substitua os arquivos existentes quando o Windows perguntar.
+3. Abra o GitHub Desktop.
+4. Escreva no Summary: Fase 2 - Cases dinâmicos
+5. Clique em Commit to main.
+6. Clique em Push origin.
+7. Aguarde 1 a 2 minutos e atualize o site com Ctrl + F5.
+
+Importante:
+- Não apague a pasta data.
+- Não apague a pasta portfolio/cases.
+- O arquivo data/projetos.json controla os cards do portfólio.
